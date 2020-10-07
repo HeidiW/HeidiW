@@ -37,6 +37,7 @@ Hi, I'm Heidi Williams-Foy 🙌, a Web Developer, Solutions Engineer and Cloud E
 - Tech Ladies
 - Billion Oyster Project
 - Stack Overflow
+- Women Who Code
 
 **Languages and Tools:**
 
