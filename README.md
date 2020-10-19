@@ -23,13 +23,12 @@ Hi, I'm Heidi Williams-Foy 🙌, a Web Developer, Solutions Engineer and Cloud E
 
 
 **More About Me:**
-
-- 🔭 Currently seeking my next great opportunity
+- 🔭 I love front-end development AND DevOps 🛠
 - 🌟 I switched to tech from entertainment in 2014
 - 🌱 I’m currently taking HarvardX CS50
 - 🌊 Save our oceans
 - 🤔 I’m looking for help with building a site using Hugo
-- 💬 Ask me about career switching, code bootcamps, video, or anything else✌
+- 💬 Ask me about career switching, code bootcamps, video, or local beaches✌
 - 📫 How to reach me: see left rail 👈🏽 
 - ⚡ Fun fact: I have taken a swim in the Dead Sea 😵
 
