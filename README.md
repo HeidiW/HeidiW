@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm Heidi Williams-Foy 🙌, a Web Developer, Solutions Engineer and a self-professed Generalist. Apart from that, I love fashion and creativity, and as a side project, I want to save the world.
+Hi, I'm Heidi Williams-Foy 🙌, a Web Developer, Solutions Engineer and a self-professed Generalist. I currently work for TikTok. Apart from that, I love fashion and creativity, and as a side project, I want to save the world.
 
 
 <img align="right" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Iterative_algorithm_solving_a_6_disks_Tower_of_Hanoi.gif/220px-Iterative_algorithm_solving_a_6_disks_Tower_of_Hanoi.gif" />
