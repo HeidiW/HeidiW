@@ -25,7 +25,6 @@ Hi, I'm Heidi Williams-Foy 🙌, a Web Developer, Solutions Engineer and a self-
 **More About Me:**
 - 🔭 A truly full-stack developer with experience in JS and Python 🛠
 - 🌊 Save our oceans
-- 🤔 I’m looking for help with building a site using Hugo
 - 💬 Ask me about career switching, code bootcamps, video, or local beaches✌
 - 📫 How to reach me: see left rail 👈🏽 
 - ⚡ Fun fact: I have taken a swim in the Dead Sea 😵
