@@ -22,9 +22,9 @@ Hi, I'm Heidi Williams-Foy 🙌, a Web Developer, Solutions Engineer and a self-
 <img align="right" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Iterative_algorithm_solving_a_6_disks_Tower_of_Hanoi.gif/220px-Iterative_algorithm_solving_a_6_disks_Tower_of_Hanoi.gif" />
 
 **More About Me:**
-- ⚒️ Currently building Jobsoxo, an invoicing and payroll app for small construction businesses
-- 💥 Number one rule to live by: Never take anything personally 
-- 🌊 Save our oceans
+- ⚒️ Currently building Jobsoxo, an invoicing and payroll app for small construction businesses 👷🏽‍♂️
+- 💥 Number one rule to live by: Never take anything personally 🥊
+- 🌊 Save our oceans ✨
 - 💬 Ask me about career switching, code bootcamps, video, or local beaches✌
 - 📫 How to reach me: see left rail 👈🏽 
 - ⚡ Fun fact: I have taken a swim in the Dead Sea 😵
