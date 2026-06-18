@@ -23,7 +23,6 @@ Hi, I'm Heidi Williams-Foy 🙌, a Web Developer, Solutions Engineer and a self-
 
 **More About Me:**
 - ⚒️ Currently building Jobsoxo, an invoicing and payroll app for small construction businesses 👷🏽‍♂️
-- 💥 Number one rule to live by: Never take anything personally 🥊
 - 🌊 Save our oceans ✨
 - 💬 Ask me about career switching, code bootcamps, video, or local beaches✌
 - 📫 How to reach me: see left rail 👈🏽 
