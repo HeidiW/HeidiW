@@ -1,14 +1,62 @@
-### Hi, it's Heidi 👋 Thanks for visiting!
+<h1 align="center">Hi, I'm Heidi 👋</h1>
 
-Hi, I'm Heidi Williams-Foy 🙌, a Web Developer and Solutions Engineer, in the process of adapting my skills to AI. I've most recently worked for TikTok. Currently I'm building JobsOxo, an invoicing and payroll app for small construction businesses 👷🏽‍♂️ 
+<p align="center">
+  <b>Senior Technical Solutions Consultant · Solutions Engineer · Ad Tech</b><br>
+  Brooklyn, NY
+</p>
 
-<img align="right" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Iterative_algorithm_solving_a_6_disks_Tower_of_Hanoi.gif/220px-Iterative_algorithm_solving_a_6_disks_Tower_of_Hanoi.gif" />
+---
 
-**Languages and Tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/replit/replit.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/claude/claude.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+### 🧭 Who I am
+
+Technical solutions engineer with 10+ years in ad tech, working at the seam between advertisers and platforms. I turn messy measurement, attribution, and signals problems into systems that actually ship — and I prototype the tooling to prove it out rather than just diagram it.
+
+My domain wheelhouse:
+
+- **Signals & catalog** — adoption, scoring, and optimization
+- **Attribution & measurement** — architecture, reconciliation, discrepancy diagnosis
+- **Server-side integration** — Events API, pixel implementation, conversion APIs
+- **Advertiser suitability** — e-commerce readiness and platform compatibility assessment
+
+### 🛠️ What I'm building right now
+
+- **JobsOxo** — a jobs pricing, management, and payroll app for small construction businesses, built on Replit with the interface designed in Claude
+- An **Attribution Reconciliation Diagnostic** — a tool that surfaces and explains discrepancies across measurement sources, built on a Next.js / Vercel / Anthropic API stack
+- **OpenClaw** — an agentic software project exploring LLM-driven workflows
+- A parallel **fractional solutions engineering practice** for seed and Series A ad tech / martech startups
+
+> 💬 *Ask me about: attribution as a diagnostic layer, server-side signals, or shipping production tools on top of LLM APIs.*
+
+---
+
+### 💻 Languages
+
+<p align="left">
+  <img src="assets/javascript.png" alt="JavaScript" title="JavaScript" width="56" height="56"/>&nbsp;&nbsp;
+  <img src="assets/python.png" alt="Python" title="Python" width="56" height="56"/>&nbsp;&nbsp;
+  <img src="assets/html5.png" alt="HTML5" title="HTML5" width="56" height="56"/>&nbsp;&nbsp;
+  <img src="assets/css3.png" alt="CSS3" title="CSS3" width="56" height="56"/>&nbsp;&nbsp;
+  <img src="assets/postgresql.png" alt="SQL" title="SQL" width="56" height="56"/>
+</p>
+
+### ⚙️ Frameworks & Tools
+
+<p align="left">
+  <img src="assets/react.png" alt="React" title="React" width="56" height="56"/>&nbsp;&nbsp;
+  <img src="assets/nextjs.png" alt="Next.js" title="Next.js" width="56" height="56"/>&nbsp;&nbsp;
+  <img src="assets/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" width="56" height="56"/>&nbsp;&nbsp;
+  <img src="assets/nodejs.png" alt="Node.js" title="Node.js" width="56" height="56"/>&nbsp;&nbsp;
+  <img src="assets/vercel.png" alt="Vercel" title="Vercel" width="56" height="56"/>&nbsp;&nbsp;
+  <img src="assets/replit.png" alt="Replit" title="Replit" width="56" height="56"/>&nbsp;&nbsp;
+  <img src="assets/googlecloud.png" alt="Google Cloud / BigQuery" title="Google Cloud / BigQuery" width="56" height="56"/>&nbsp;&nbsp;
+  <img src="assets/git.png" alt="Git" title="Git" width="56" height="56"/>
+</p>
+
+<sub>I also build on the <b>Anthropic API</b> and work with <b>BigQuery</b> and large-scale data workflows.</sub>
+
+---
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/heidiwilliamsfoy/">LinkedIn</a> ·
+  <a href="mailto:heidi.williamsfoy@gmail.com">Email</a>
+</p>
