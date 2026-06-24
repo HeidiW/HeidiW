@@ -11,6 +11,8 @@
 
 Technical solutions engineer with 10+ years in ad tech, working at the seam between advertisers and platforms. I turn messy measurement, attribution, and signals problems into systems that actually ship — and I prototype the tooling to prove it out rather than just diagram it.
 
+Away from my laptop, I love to go see music at local venues, read books, try new recipes, spend time with my family, and learn languages, especially Chinese and Spanish. I live in the best neighborhood in the world, Bushwick.
+
 My domain wheelhouse:
 
 - **Signals & catalog** — adoption, scoring, and optimization
