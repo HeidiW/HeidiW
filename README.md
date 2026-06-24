@@ -32,24 +32,13 @@ My domain wheelhouse:
 ### 💻 Languages
 
 <p align="left">
-  <img src="assets/javascript.png" alt="JavaScript" title="JavaScript" width="56" height="56"/>&nbsp;&nbsp;
-  <img src="assets/python.png" alt="Python" title="Python" width="56" height="56"/>&nbsp;&nbsp;
-  <img src="assets/html5.png" alt="HTML5" title="HTML5" width="56" height="56"/>&nbsp;&nbsp;
-  <img src="assets/css3.png" alt="CSS3" title="CSS3" width="56" height="56"/>&nbsp;&nbsp;
-  <img src="assets/postgresql.png" alt="SQL" title="SQL" width="56" height="56"/>
+
 </p>
 
 ### ⚙️ Frameworks & Tools
 
 <p align="left">
-  <img src="assets/react.png" alt="React" title="React" width="56" height="56"/>&nbsp;&nbsp;
-  <img src="assets/nextjs.png" alt="Next.js" title="Next.js" width="56" height="56"/>&nbsp;&nbsp;
-  <img src="assets/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" width="56" height="56"/>&nbsp;&nbsp;
-  <img src="assets/nodejs.png" alt="Node.js" title="Node.js" width="56" height="56"/>&nbsp;&nbsp;
-  <img src="assets/vercel.png" alt="Vercel" title="Vercel" width="56" height="56"/>&nbsp;&nbsp;
-  <img src="assets/replit.png" alt="Replit" title="Replit" width="56" height="56"/>&nbsp;&nbsp;
-  <img src="assets/googlecloud.png" alt="Google Cloud / BigQuery" title="Google Cloud / BigQuery" width="56" height="56"/>&nbsp;&nbsp;
-  <img src="assets/git.png" alt="Git" title="Git" width="56" height="56"/>
+
 </p>
 
 <sub>I also build on the <b>Anthropic API</b> and work with <b>BigQuery</b> and large-scale data workflows.</sub>
